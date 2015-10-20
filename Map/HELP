@@ -1,0 +1,24 @@
+//Header sur la premier ligne
+////different arguments :
+-------------------------
+'-' parametrer par defaut
+
+gameMode:      '0'-'9'
+difficulty level ""
+terrainType 1: '0'-'9'
+speed:	       '0'-'9'
+item movement speed  ""
+item max by type     ""
+item life time	     ""
+item frequence       ""
+snake direction      ""
+
+-------------------------
+//Type d'objet
+'-'     :separateur
+
+' '	:vide
+'#'	:snake init ! non obligatoire
+'0'-'9' :items
+'a'-'z' :elem non solid
+'A'-'Z' :elem solid
